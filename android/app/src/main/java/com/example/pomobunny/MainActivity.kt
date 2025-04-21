@@ -1,4 +1,4 @@
-package com.example.pomobunny  // <-- Update this if your package name is different
+package com.example.pomobunny
 
 import io.flutter.embedding.android.FlutterActivity
 
