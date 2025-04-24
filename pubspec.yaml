@@ -1,0 +1,5 @@
+name: pomobunny
+description: A full-featured Pomodoro app with a bunny character
+flutter:
+  assets:
+    - assets/images/bunny.png
