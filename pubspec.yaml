@@ -1,7 +1,9 @@
 name: pomobunny
 description: A full-featured Pomodoro app with a bunny character
+
+environment:
+  sdk: '>=3.7.0 <4.0.0'
+
 flutter:
   assets:
     - assets/images/bunny.png
-    environment:
-  sdk: '>=3.7.0 <4.0.0'
